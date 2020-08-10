@@ -8,8 +8,8 @@
   command = "yarn build"
 
 [template.environment]
-  REACT_APP_CLIENT_ID = "change me for your client_id"
-  REACT_APP_CLIENT_SECRET = "change me for your client_secret"
+  REACT_APP_CLIENT_ID = "DDRhYPX2e3QnLms10vWVDRpFRdjHKoifq9SlwDMq"
+  REACT_APP_CLIENT_SECRET = "cvQLoBivem5rOjuHPym386MnjL80Nuo68V2rDUse"
 
 [[redirects]]
   from = "/api/*"
